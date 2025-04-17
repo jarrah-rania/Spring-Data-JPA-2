@@ -19,7 +19,7 @@ public class ProductRestService {
     {
         return productRepository.findAll();
     }
-    @GetMapping("/products/{id]")
+    @GetMapping("/products/{id}")
     public Product findProduct(Long id)
     {
        Product product= productRepository.findById(id).orElse(null);
