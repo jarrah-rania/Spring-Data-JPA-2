@@ -1,7 +1,7 @@
 <h2>Sortie de mon code :</h2>
 
 <h2>Affichage sur le web</h2>
-<img src="C:\Users\jarra\IdeaProjects\university\Capture1.png">
+<img src="caputuree/Capture1.png">
 <h2>Affichage via --http://localhost:8085/products--</h2>
 <img src="capturee\Capture2.png">
 <h2>Affichage sur terminal des produits existants</h2>
